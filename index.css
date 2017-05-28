@@ -23,14 +23,18 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #134611;
+    color: #070707;
 }
 
-.checkmark {
+.emoji {
     padding-right: 3vw;
 }
 
 h1 {
+    display: block
+}
+
+h2 {
     display: block
 }
 
